@@ -3,7 +3,7 @@
 旅Vlogの「どこで・何を・どう撮るか」をボードにまとめて、撮影当日はスマホでチェックしながら撮れるWebアプリです。
 Milanote の撮影プランニングボードから着想を得て作りました。
 
-**▶ アプリを開く：** https://<GitHubのユーザー名>.github.io/kohboard/
+**▶ アプリを開く：** https://k-uchida0717.github.io/kohboard/
 
 ## できること
 
