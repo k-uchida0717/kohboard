@@ -1,0 +1,16 @@
+{
+  "name": "KOH Trip Vlog Location Board",
+  "short_name": "KOH Trip Vlog",
+  "description": "旅Vlogの撮影場所・ショット・持ち物をボードにまとめて、当日はスマホでチェックしながら撮影できるアプリ。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#21201D",
+  "theme_color": "#2A2824",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

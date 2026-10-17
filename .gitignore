@@ -1,0 +1,8 @@
+# 旅程・個人データはアップロードしない
+*.json
+!package.json
+
+# OS
+.DS_Store
+Thumbs.db
+
